@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Quick Start](quick_start.md)
-   * Author
+   * [Author](author.md)
 
