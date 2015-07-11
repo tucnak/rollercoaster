@@ -21,5 +21,5 @@ C++ is built on 85 keywords, Java consists of 50. Go has 25 keywords.
 Grammar complexity (rules count) of C# is 314, for Java it's 216. Grammar complexity of Go is 58.
 ![](https://habrastorage.org/files/ecb/346/cad/ecb346cad8934b94abd0a04733adc496.png)
 
-Let's count the "struggle index" for most popular languages, based on [Stack Overflow](http://stackoverflow.com/) data. According to this data, Java developers ask x8.5 more questions, than Go programmers:
+Let's count the "struggle index" for most popular languages, based on [Stack Overflow](http://stackoverflow.com/) data. According to this data, Java developers struggle x8.5 more than Go programmers:
 ![](https://habrastorage.org/files/73c/964/8e9/73c9648e9f07412abc258a3f7f62d330.png)
