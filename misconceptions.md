@@ -2,7 +2,7 @@
 
 Since there are dozens of reasons for a one to start programming, you could appear here for a huge variety of these. Inb4 we actually advance to real learning process (programming, man!!!!), I'd like to tell you, what this book is definitely not about:
 
-* This isn't a manual to some specific programming language, like Go.
+* This isn't a manual to some specific programming language (by the end you'll know Go on intermediate level, though).
 * This isn't a comprehensive guide to computer science (aka algorithms).
 * This isn't a solid reference to design patterns in programming.
 * After finishing this, you won't be able to hack video games, mobile apps, etc.
