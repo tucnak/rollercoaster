@@ -1,0 +1,20 @@
+# The most important language in programming
+
+I get asked about engineering stacks all the time. Every single newcomer struggles here: "Which language should I learn? Which platform should I aim on first?". That's a really tough question, since there are tons of problems, which could be solved in different ways. All the holy wars get born right there: where problems are being overlapped with multiple solutions. I'll give you an example: you got to build a desktop application. Let's say, a text editor. It's a wide problem which you could approach with dozens of solutions. A few of these (there are dozens):
+
+### .NET over C&#35;
+Microsoft provides a great development stack for Windows developers. C# itself is an accomplished language, widely used in enterprise production. A trade-off for incredible native Windows integration is a lack of cross-platform development tools. Want to hack a great Windows-only application easily? Your choice.
+
+### Qt over C++/QML
+Qt is a cross-platform application development framework, generally written in C++. It supports a variety of platforms, such as Windows, Mac, Linux, Android, iOS and BlackBerry. A trade-off for terrific cross-platform integration is complexity of native solutions. Last versions of Qt, such as Qt5+, get rid of C++ code for GUI, by replacing it with QML (Qt Modeling Language), which looks like JavaScript and soopa-doopa great for prototyping. Want a solid cross-platform solution? Your choice.
+
+### Java
+Cross-platform solution, Java application is bytecode in JVM (Java Virtual Machine). Solutions in Java usually have a big memory fingerprint (need lots of RAM). Java is an accomplished language, widely used in enterprise production. Want cross-platform application and don't want to shoot yourself in the foot with C++? Your choice.
+
+# So which is the most important one?
+
+It's **English**. No doubts, the most important language in the whole software engineering Universe is English. Programming is not actually about mechanical coding, but all about communication. Modern software is usually too complex for solo development, so you'd eventually appear in some team.
+
+There is a common misconception about required English skills. It sounds something like "Your English is fine unless you can read documentation". What do I think about it? Rubbish! Believe it or not, the wider your English knowledge is — the better. There's always a huge room for improvements and you must take advantage of it.
+
+Oh, I assume that in future someone might want to translate this book into other language... **Don't you dare!** If you respect what I'm doing here, don't even consider translating this book! Otherwise, I'll find out where you live, come to your apartment with a damn huge hammer to knock the shit out of you! This book must remain in English and it's a critical requirement I insist on.
