@@ -7,8 +7,8 @@
 	- [The most important language in programming](start/Language.md)
 	- [Why I chose Go for this book?](start/Why-Go.md)
 * [Think!](think/Think.md)
-	- Problem
-	- Approaching the problem
+	- [Problem](think/Problem.md)
+	- [Approach](think/Approach.md)
 	- Solution
 	- Application
 	- Engineering workflow
