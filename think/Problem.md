@@ -8,8 +8,8 @@ Yet another, probably the most important, thing about problems is specification.
 
 Summing up, here is a list of things to do before doing an actual research on the problem given:
 
-1. Make sure that problem statement is clear and unambiguous
-2. Look for details carefully, there must be enough of them
-3. You must understand everything well and see the roots
+1. Make sure that problem statement is clear and unambiguous.
+2. Look for details carefully, there must be enough of them.
+3. You must understand everything well and see the roots.
 
 There we go, it's research time now!

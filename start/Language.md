@@ -1,6 +1,6 @@
 # The most important language in programming
 
-I get asked about engineering stacks all the time. Every single newcomer struggles here: "Which language should I learn? Which platform should I aim on first?". That's a really tough question, since there are tons of problems, which could be solved in different ways. All the holy wars get born right there: where problems are being overlapped with multiple solutions. I'll give you an example: you got to build a desktop application. Let's say, a text editor. It's a wide problem which you could approach with dozens of solutions. A few of these (there are dozens):
+I get asked about engineering stacks all the time. Every single newcomer struggles here: *"Which language should I learn? Which platform should I aim on first?"*. That's a really tough question, since there are a couple dozens of problems, which could be solved in different ways. All the holy wars get born right there: where problems are being overlapped with multiple solutions. I'll give you an example: you got to build a desktop application. Let's say, a text editor. It's a wide problem which you could approach with dozens of solutions. A few of possible stacks:
 
 ### .NET over C&#35;
 Microsoft provides a great development stack for Windows developers. C# itself is an accomplished language, widely used in enterprise production. A trade-off for incredible native Windows integration is a lack of cross-platform development tools. Want to hack a great Windows-only application easily? Your choice.
@@ -11,7 +11,7 @@ Qt is a cross-platform application development framework, generally written in C
 ### Java
 Cross-platform solution, Java application is bytecode in JVM (Java Virtual Machine). Solutions in Java usually have a big memory fingerprint (need lots of RAM). Java is an accomplished language, widely used in enterprise production. Want cross-platform application and don't want to shoot yourself in the foot with C++? Your choice.
 
-# So which is the most important one?
+# So which is the most important?
 
 It's **English**. No doubts, the most important language in the whole software engineering Universe is English. Programming is not actually about mechanical coding, but all about communication. Modern software is usually too complex for solo development, so you'd eventually appear in some team.
 
