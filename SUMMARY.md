@@ -23,8 +23,8 @@
 		* Assembly language
 		* Imperative programming
 		* Structural programming
-		* Object-Oriented programming
-		* Functional programmin
+		* Object-Oriented pr-ing
+		* Functional programming
 	- Fundamental entities
 		* Package
 		* Scope
