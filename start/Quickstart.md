@@ -1,4 +1,4 @@
-# Quick Start
+# Quickstart
 
 This book is separated into 4 sequential sections. Each one represents an essential aspect of programming. First of all, I'll give you a brief introduction to the book itself, what it's not about and some specific misc information, that appears to be bloody critical.
 

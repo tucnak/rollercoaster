@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-* [Begin!](start/Quick-Start.md)
+* [Begin!](start/Quickstart.md)
 	- [Author](start/Author.md)
 	- [What this book isn't about](start/Misconceptions.md)
 	- [The most important language](start/Language.md)
-	- [Why I chose Go for this book?](start/Why-Go.md)
+	- [Why I chose Go for this book?](start/Golang.md)
 * [Think!](think/Think.md)
 	- [Problem](think/Problem.md)
 	- [Research](think/Research.md)
