@@ -11,35 +11,30 @@
 	- [Research](think/Research.md)
 	- [Analysis](think/Analysis.md)
 	- [Implementation](think/Implementation.md)
-* Steady!
-	- Theoretical context
+* [Steady!](steady/Steady.md)
 	- Briefly about
-		* Computer
-		* Hardware
 		* Software
-		* Operating System
+		* Hardware
+		* Networking
+		* Operating Systems
 		* Language and Compiler
-	- Paradigmatic context
-		* Assembly language
-		* Imperative programming
-		* Structural programming
-		* Object-Oriented pr-ing
-		* Functional programming
-	- Fundamental entities
+	- Programming paradigms
+		* Assembly
+		* Imperative
+		* Structural
+		* Object-Oriented
+		* Functional
+	- Fundamental primitives
 		* Package
-		* Scope
 		* Comment
-		* Statement
-		* Function
 		* Variable
 		* Constant
-		* Constant
-		* Struct
 		* Array
 		* Map
 		* Conditionals
 		* Loops
-		* Flow control
+		* Function
+		* Struct
 	- Object-Oriented model
 		* Object
 		* Encapsulation
@@ -61,6 +56,7 @@
 	- Bottlenecks and Optimization
 	- I/O and Data
 		* Devices and Files
+		* Pipes
 		* File formats
 			- XML
 			- JSON
