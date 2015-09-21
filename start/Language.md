@@ -15,6 +15,6 @@ Cross-platform solution, Java application is bytecode in JVM (Java Virtual Machi
 
 It's **English**. No doubts, the most important language in the whole software engineering Universe is English. Programming is not actually about mechanical coding, but all about communication. Modern software is usually too complex for solo development, so you'd eventually appear in some team.
 
-There is a common misconception about required English skills. It sounds something like "Your English is fine unless you can read documentation". What do I think about it? Rubbish! Believe it or not, the wider your English knowledge is — the better. There's always a huge room for improvements and you must take advantage of it.
+There is a common misconception about required English skills. It sounds something like "Your English is fine unless you can read documentation". What do I think about it? Rubbish! Believe it or not, the wider your English knowledge is—the better. There's always a huge room for improvements and you must take advantage of it.
 
 Oh, I assume that in future someone might want to translate this book into other language... **Don't you dare!** If you respect what I'm doing here, don't even consider translating this book! Otherwise, I'll find out where you live, come to your apartment with a damn huge hammer to knock the shit out of you! This book must remain in English and it's a critical requirement I insist on.

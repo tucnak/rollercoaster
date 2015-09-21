@@ -12,9 +12,9 @@
 	- [Analysis](think/Analysis.md)
 	- [Implementation](think/Implementation.md)
 * [Steady!](steady/Steady.md)
-	- Briefly about
-		* Software
-		* Hardware
+	- [Briefly about](steady/Briefly.md)
+		* [Hardware](steady/briefly/Hardware.md)
+		* [Software](steady/briefly/Software.md)
 		* Networking
 		* Operating Systems
 		* Language and Compiler

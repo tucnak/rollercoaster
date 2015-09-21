@@ -1,0 +1,5 @@
+# Briefly about
+
+If you feel 100% advanced in the subject, you can omit this chapter, but if I were in your shoes, I wouldn't. I'm going to take you through pretty deep understanding of basic hardware/software mechanics, networking concepts, operation systems, programming languages and compilers.
+
+Go, Johny, Go!
