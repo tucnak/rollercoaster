@@ -16,8 +16,8 @@
 		* [Hardware](steady/briefly/Hardware.md)
 		* [Software](steady/briefly/Software.md)
 		* [Networking](steady/briefly/Networking.md)
-		* Operating Systems
-		* Language and Compiler
+		* [Operating Systems](steady/briefly/OS.md)
+		* [Language and Compiler](steady/briefly/Compiler.md)
 	- Programming paradigms
 		* Assembly
 		* Imperative
