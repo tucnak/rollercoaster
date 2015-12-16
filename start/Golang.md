@@ -1,5 +1,5 @@
 # Why I chose Go for this book?
-**NB:** This chapter explains why I chose Go as learning language for this Book. Not C++, Python, Java, Smalltalk, but Go. It requires some solid understanding of programming languages and differences between them. A complete beginner should definitely omit this chapter.
+**NB:** This chapter explains why I chose Go as learning language for this Book. Not C++, Python, Java, Smalltalk, but Go. It requires some solid understanding of programming languages and what makes them different. A complete beginner should definitely omit this chapter.
 
 <hr>
 
@@ -25,3 +25,5 @@ Grammar complexity (amount of syntactic rules) of C# is around 314, for Java it'
 
 Let's count the "struggle index" for most popular languages, based on [Stack Overflow](http://stackoverflow.com/) data. According to this data, Java developers struggle x8.5 more than Go programmers:
 ![](https://habrastorage.org/files/73c/964/8e9/73c9648e9f07412abc258a3f7f62d330.png)
+
+Provided we look for an easy to learn language, Go seems like a nice choice!

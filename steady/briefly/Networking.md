@@ -1,0 +1,16 @@
+# Networking
+Well, networking is important. In my humble opinion, its importance is often highly underestimated, especially in learning resources. In fact, there is only a little piece of isolated software in vacuum, which does not communicate over network. Web services, mobile apps, computer software with cloud integration / automatic updates—these rely on networking heavily. Standard libraries (cutting-edge implementations, distributed out-of-the-box) in some popular programming languages do often offer high-level abstractions to low-level networking stuff though. In this chapter you'll get familiar with just some crucial networking primitives. I'll do my best to keep it as concise as possible.
+
+## The whole picture
+Real networking is complicated. Well, basic concepts behind networking are dead simple, but the whole low-level picture is quite tremendous. Now you should think of a network (e.g. Internet) as of a bunch of computers connected by wire. A wire is not a thing till the _socket_ at some _port_ is opened. Socket is a low-level channel of communication between computers and port is an identifier that determines a _service_ that it's running under. For example, the most popular port out there is 80, which stands for TCP/IP service, most often running HTTP (Hypertext Transfer Protocol).
+
+## Socket
+You can think of socket as of an endpoint on some network device. As of TCP/IP (generally accepted networking standard), it is determined with an IP address and a port number. You can potentially run as many different protocols on the same socket as you wish. Thus, TCP on port 53 and UDP on port 53 are distinct sockets. There are several types of Internet sockets available:
+
+* [Datagram sockets](https://en.wikipedia.org/wiki/Datagram_socket), also known as connectionless sockets, which use [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol) (UDP).
+* [Stream sockets](https://en.wikipedia.org/wiki/Stream_socket), also known as connection-oriented sockets, which use [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) (TCP)
+* [Raw sockets](https://en.wikipedia.org/wiki/Raw_socket) (or *Raw IP sockets*), typically available in routers and other network equipment.
+
+Other socket types are implemented over other transport protocols.
+
+TBA.

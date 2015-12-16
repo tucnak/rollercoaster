@@ -15,7 +15,7 @@
 	- [Briefly about](steady/Briefly.md)
 		* [Hardware](steady/briefly/Hardware.md)
 		* [Software](steady/briefly/Software.md)
-		* Networking
+		* [Networking](steady/briefly/Networking.md)
 		* Operating Systems
 		* Language and Compiler
 	- Programming paradigms

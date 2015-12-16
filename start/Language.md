@@ -1,6 +1,6 @@
-# The most important language in programming
+# The most important language
 
-I get asked about engineering stacks all the time. Every single newcomer struggles here: *"Which language should I learn? Which platform should I aim on first?"*. That's a really tough question, since there are a couple dozens of problems, which could be solved in different ways. All the holy wars get born right there: where problems are being overlapped with multiple solutions. I'll give you an example: you got to build a desktop application. Let's say, a text editor. It's a wide problem which you could approach with dozens of solutions. A few of possible stacks:
+Newcomers keep on asking me about stacks all the time. Every single newcomer struggles here: *"Which language should I learn? Which platform should I aim on first?"*. That's a really tough question, since there are a couple dozens of problems, which could be solved in different ways. All the holy wars get born right there: where problems are being overlapped with multiple solutions. I'll give you an example: you got to build a desktop application. Let's say, a text editor. It's a wide problem which you could approach with dozens of solutions. A couple of popular stacks:
 
 ### .NET over C&#35;
 Microsoft provides a great development stack for Windows developers. C# itself is an accomplished language, widely used in enterprise production. A trade-off for incredible native Windows integration is a lack of cross-platform development tools. Want to hack a great Windows-only application easily? Your choice.
