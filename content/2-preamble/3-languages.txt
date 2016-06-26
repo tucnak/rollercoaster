@@ -1,4 +1,4 @@
-# The most important language
+# The Superiour Language
 
 Newcomers keep on asking me about stacks all the time. Every single newcomer struggles here: *"Which language should I learn? Which platform should I aim on first?"*. That's a really tough question, since there are a couple dozens of problems, which could be solved in different ways. All the holy wars get born right there: where problems are being overlapped with multiple solutions. I'll give you an example: you got to build a desktop application. Let's say, a text editor. It's a wide problem which you could approach with dozens of solutions. A couple of popular stacks:
 

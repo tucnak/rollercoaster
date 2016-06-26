@@ -1,4 +1,4 @@
-# What this book is NOT about
+# This Book Isn't...
 
 Since there are dozens of reasons for a one to start programming, you could appear here for a huge variety of these. Inb4 we actually advance to real learning process (programming, man!!!!), I'd like to tell you, what this book is definitely not about:
 

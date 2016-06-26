@@ -1,4 +1,5 @@
-# Why I chose Go for this book?
+# Why I Chose Go
+
 **NB:** This chapter explains why I chose Go as learning language for this Book. Not C++, Python, Java, Smalltalk, but Go. It requires some solid understanding of programming languages and what makes them different. A complete beginner should definitely omit this chapter.
 
 <hr>

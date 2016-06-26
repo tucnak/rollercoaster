@@ -1,0 +1,11 @@
+name = "The Programming Rollercoaster"
+description = "Introduction to software engineering, written by a student for students"
+license = "CC-SA"
+language = "en"
+extension = "txt"
+enumerate = true
+
+[author]
+    name = "Ian Byrd"
+    email = "ian@byrd.im"
+    url = "byrd.im"

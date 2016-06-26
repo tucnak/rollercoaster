@@ -1,4 +1,4 @@
-# Think!
+# Approach
 
 Software engineering is not about chaotic coding and/or monkey typing. What distinguishes a good programmer from code monkeys is active implicit thinking. Good programmers always know what they do and why they do it, why code monkeys just blindly commit some actions and pray for good results. In the meantime, good engineers expect some results and later analyse them.
 

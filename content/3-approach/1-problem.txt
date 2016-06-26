@@ -1,6 +1,6 @@
 # Problem
 
-Why would you want to write a computer program? Generally, you do need to write one when you face some specific problem. Otherwise it doesn't make much sense. Any software could be considered accomplished only when it solves some particular problem. Problem is a key concept, which you must take seriously in order to get the whole picture right.
+Why would you want to write a computer program in the first place? Generally, you do need to write one when you face some specific problem. Otherwise it doesn't make much sense. Any software could be considered accomplished only when it solves some particular problem. Problem is a key concept, which you must take seriously in order to get the whole picture right.
 
 People can't solve big problems as they are, so we typically split them into smaller ones. There is a clever explanation to this: problems of considerable size do usually cover a broad range of areas, technologies and responsibilities, which obviously require context switching a lot. In the meantime, we are not doing great with context switching, so it's much easier to sequentially solve smaller problems in scope of a single context.
 

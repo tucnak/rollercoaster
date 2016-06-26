@@ -1,4 +1,4 @@
-# Quickstart
+# Preamble
 
 There are multiple reasons why people come to programming: one could be excited with enormously high salaries, others could just have fun with computers. There are some common misconceptions, people somehow tend to believe.
 

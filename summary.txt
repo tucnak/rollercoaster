@@ -1,0 +1,103 @@
+| Introduction
+| Preamble
+	- Author
+	- This Book Isn't...
+	- The Superiour Language
+	- Why I Chose Go
+| Approach
+	- Problem
+	- Research
+	- Analysis
+	- Implementation
+| Knowledge
+	- Briefly
+		| Hardware
+		| Software
+		| Networking
+		| OS
+		| Compiler
+	- Meet the Programming
+		| Assembly
+		| Imperative
+		| Structural
+		| Object-oriented
+		| Functional
+	- Primitives
+		| Package
+		| Comment
+		| Variable
+		| Constant
+		| Array
+		| Map
+		| Conditionals
+		| Loops
+		| Function
+		| Structure
+| Coding
+	- Hello world!
+	- Program runtime
+	- Data manipulation
+		| Type system
+		| Data structures
+	- Designing an Algorithm
+		| Factorial
+		| Sorting
+		| Substring matching
+		| Caesar cipher
+		| Radix tree
+	- Being effective
+		| Complexity
+		| Bottlenecks
+		| Optimizations
+	- Data and I/O
+		| Devices
+		| Files
+		| File formats
+			- XML
+			- JSON
+			- Protobuf
+		| Encoding
+			- Binary
+			- UTF-8
+			- Base64
+		| Serialization
+	- Strings
+		| Substrings
+		| Slicing and matching
+		| Regular expressions
+	- Error handling
+		| Exceptions
+		| Panic and Recover
+	- OOP
+		| Key concepts
+			- Object
+			- Encapsulation
+			- Inheritance
+			- Polymorphism
+			- Architecture
+		| Embedding
+		| Generics
+		| Interfaces
+	- Code quality
+		| KISS
+		| DRY
+		| TDD
+	- Concurrent programming
+		| Multitasking
+		| Goroutines
+		| Channels
+		| Select
+		| Synchronization
+			- Mutex
+			- Pool
+			- Wait group
+		| Timers
+	- Version control
+		| Repository
+		| Commit
+		| Clone
+		| Branch
+		| Merge
+		| Conflicts
+		| Tag
+| Practice

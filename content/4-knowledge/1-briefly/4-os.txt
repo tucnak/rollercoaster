@@ -1,29 +1,27 @@
-# Operating system
-Operating System (OS) is a bridge between user-end software and actual computer hardware. There is a huge variety of them, depending on user needs (field of application) and physical platform. Thus, popular Microsoft Windows® won't usually meet the needs of modern systems engineers and the other way around. As of low-level software development, OS provides some necessary abstractions to radically simplify your life.
+# OS
+
+Operating system (OS) is a bridge between user-end software and actual computer hardware. There is a huge variety of them, depending on user needs (field of application) and physical platform. Thus, popular Microsoft Windows® won't usually meet the needs of modern systems engineers and the other way around. As of low-level software development, OS provides some necessary abstractions to radically simplify your life.
 
 ## Desktop
 
 ### Windows
 Operation system, created in the dark dungeons of Microsoft: the ugly, yet extremely popular among computer users, child in the family of operating systems. Windows historically originated from [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS) and is full of rubbish legacy design decisions. Programmers are typically not into Windows, since it's awful and super inconvenient for any sort of development. Still, there are mentals, who are totally happy with it. On the other hand, one can't deny the fact that Windows is the most popular user-end operating system in the world.
 
-![Pretty cool snapshot of Windows 10](img/windows.png)
+![Pretty cool snapshot of Windows 10](:/img/windows.png)
 
 ### Linux
 Linux Desktop—a family of so-called Linux "distributions", targeting on desktop systems. Distros are sharing the same Linux kernel, but use different sets of pre-installed software and desktop environments. A good example of "Linux with a human face" is [Ubuntu](http://www.ubuntu.com/desktop).
 
 So how is Linux different from Windows? Well, Windows is just some poorly architected proprietary rubbish and Linux is stable open source system, based on [Unix](https://en.wikipedia.org/wiki/Unix). From the power user's or programmer's perspective, Unix systems are characterized by a modular design that is sometimes called the "Unix philosophy", meaning that the operating system provides a set of simple tools that each perform a limited, well-defined function, with a unified filesystem as the main means of communication and a shell scripting and command language to combine the tools to perform complex workflows. Aside from the modular design, Unix also distinguishes itself from its predecessors as the first portable operating system: almost the entire operating system is written in the C programming language that allowed Unix to reach numerous platforms.
 
-![Ubuntu, running Unity 7 desktop environment](img/ubuntu.jpg)
+![Ubuntu, running Unity 7 desktop environment](:/img/ubuntu.jpg)
 
 Some people (including me) do not agree with [Canonical's](http://www.canonical.com/) design decisions (both technical and visual) and prefer other distributions. Anyway, Linux family is a wide topic, too wide to be covered properly in the context of this chapter. For now I'll just show you a few screenshots of different desktop environments, alright?
 
-![Plasma 5 environment](img/plasma5.jpg)
+![Plasma 5 environment](:/img/plasma5.jpg)
 
-![ElementaryOS — Freya](img/eos-freya.png)
+![ElementaryOS — Freya](:/img/eos-freya.png)
 
-![Gnome 2](img/gnome2.jpg)
+![Gnome 2](:/img/gnome2.jpg)
 
 ### OS X
-
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
